@@ -364,7 +364,7 @@ assets/register.png
 assets/add-note.png
 ```
 
-![Add Note](assets/Screenshot 2026-07-10 113107.png)
+![Add Note](assets/demo1.png)
 
 ---
 
